@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
-    background_image_opacity: 50
+    background_image_opacity: 60
     content: |
       # The Botanicart Society
 
