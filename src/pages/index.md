@@ -15,7 +15,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: 'Scopri di più '
+      - title: Scopri di più
         url: lorem-ipsum
         style: link
         arrow: false
