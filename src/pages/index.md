@@ -13,7 +13,7 @@ sections:
     actions:
       - title: Vai allo store
         url: /store
-        arrow: true
+        arrow: false
         style: primary
       - title: Scoprici
         url: lorem-ipsum
