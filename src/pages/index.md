@@ -18,7 +18,7 @@ sections:
       - title: Scopri di più
         url: lorem-ipsum
         style: link
-        arrow: false
+        arrow: true
         type: action
   - type: featured_products_section
     section_id: best_sellers_section
