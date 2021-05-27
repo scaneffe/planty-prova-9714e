@@ -11,7 +11,7 @@ sections:
 
       Aggiungere frase accattivante...
     actions:
-      - title: See all items
+      - title: Vai allo store
         url: /store
         arrow: true
         style: primary
