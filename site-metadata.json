@@ -17,11 +17,6 @@
             "style": "link"
         },
         {
-            "title": "FAQ",
-            "url": "/faq",
-            "style": "link"
-        },
-        {
             "title": "Contatti",
             "url": "lorem-ipsum",
             "style": "primary",
