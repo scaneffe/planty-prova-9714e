@@ -7,7 +7,7 @@ sections:
     background_image: images/DSC_3267_1.jpg
     background_image_opacity: 75
     content: |
-      # The Botanicart Society
+      # ![](/\_static/app-assets/untitled%20\(2\).svg)The Botanicart Society
 
       Aggiungere frase accattivante...
     actions:
