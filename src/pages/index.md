@@ -14,7 +14,7 @@ sections:
       - title: Vai allo store
         url: /store
         arrow: false
-        style: link
+        style: primary
       - title: Scoprici
         url: lorem-ipsum
         style: link
