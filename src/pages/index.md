@@ -55,7 +55,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: SCOPRI IL NOSTRO STORE
-    subtitle: Visualizza i nostri prodotti e le collaborazioni speciali.
+    subtitle: Visualizza i nostri prodotti ed esclusive collab.
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
