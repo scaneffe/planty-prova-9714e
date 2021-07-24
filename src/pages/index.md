@@ -59,7 +59,7 @@ sections:
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: Vai allo Store
       url: /store
       style: secondary
       arrow: true
