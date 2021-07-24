@@ -61,7 +61,7 @@ sections:
     cta:
       title: Vai allo Store
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 template: home
 ---
