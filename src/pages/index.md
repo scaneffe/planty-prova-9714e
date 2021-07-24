@@ -55,7 +55,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: SCOPRI IL NOSTRO STORE
-    subtitle: from $149.99
+    subtitle: Visualizza i nostri prodotti e le collaborazioni speciali.
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
