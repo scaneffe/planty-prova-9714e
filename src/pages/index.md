@@ -54,7 +54,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: SCOPRI IL NOSTRO LAB
+    title: SCOPRI IL NOSTRO STORE
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
