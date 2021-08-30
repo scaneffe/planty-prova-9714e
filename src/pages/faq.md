@@ -36,8 +36,7 @@ sections:
 
           *   The Botanicart SocietyThe Botanicart SocietyThe Botanicart
           SocietyThe Botanicart Society
-      - question: How do you handle sensitive customer information?
-        answer: >-
+      - answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
           am I right? Make sure you’re as transparent as possible with your data
           handling process. Or, if you’re using Snipcart, just refer to [our ToS
