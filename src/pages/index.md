@@ -35,6 +35,7 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
+      - src/pages/category/europe.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
