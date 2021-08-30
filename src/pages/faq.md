@@ -23,7 +23,7 @@ sections:
           *   The Botanicart Society
 
           *   The Botanicart Society
-      - question: How do refunds and returns work?
+      - question: Dove operiamo?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
