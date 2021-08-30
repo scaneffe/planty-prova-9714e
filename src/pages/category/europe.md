@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: TERRARIUM
 order: 3
 template: category
 ---
